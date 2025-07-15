@@ -30,9 +30,10 @@ To run this project locally:
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/landpage.git
-cd landpage
+###2. Install Dependencies
+
+###3. Add Your Firebase Config to .env
+
 
 🚀 Scripts
 In the project directory, you can run:
